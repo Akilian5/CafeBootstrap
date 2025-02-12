@@ -1,0 +1,118 @@
+.carousel-item img{
+
+    
+        max-height: 700px; /* Ajusta según lo necesites */
+        width: auto;
+        margin: auto;
+        display: block;
+    
+    
+}
+
+
+
+        /* Fondo cálido con imagen de café */
+        body {
+                background: linear-gradient(to bottom, #6F4E37, #D2B48C);
+            }
+            
+            
+
+        /* Tarjetas con bordes y sombras */
+        .card {
+            border: 2px solid #8B5E3B;
+            box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+            background-color: rgba(255, 248, 220, 0.9); /* Color crema con transparencia */
+        }
+
+        .card-title {
+            color: #6F4E37; /* Café oscuro */
+        }
+
+        .btn-primary {
+            background-color: #8B5E3B;
+            border: none;
+        }
+
+        .btn-primary:hover {
+            background-color: #6F4E37;
+        }
+
+
+        /* Estilos para el footer */
+.footer-bg {
+        background-color: #5B3A29; /* Marrón oscuro cálido */
+        color: #FFDAB9; /* Beige claro */
+    }
+    
+    .footer-link {
+        text-decoration: none;
+        color: #FFE4B5; /* Tono beige más claro */
+        transition: color 0.3s ease-in-out;
+    }
+    
+    .footer-link:hover {
+        color: #FFD700; /* Dorado brillante */
+    }
+
+
+    /* Navbar personalizado */
+.navbar-custom {
+        background-color: #5B3A29 !important; /* Marrón café oscuro */
+    }
+    
+    .navbar-custom .navbar-brand {
+        color: #FFDAB9 !important; /* Beige claro */
+        font-weight: bold;
+    }
+    
+    .navbar-custom .nav-link {
+        color: #FFE4B5 !important; /* Beige más claro */
+        font-weight: bold;
+        transition: color 0.3s ease-in-out;
+    }
+    
+    .navbar-custom .nav-link:hover {
+        color: #FFD700 !important; /* Dorado brillante */
+    }
+    
+    /* Icono de menú hamburguesa en móvil */
+    .navbar-toggler {
+        border-color: #FFDAB9 !important;
+    }
+    
+    .navbar-toggler-icon {
+        background-color: #FFDAB9 !important;
+        border-radius: 5px;
+    }
+    
+    /* Para mejorar la visibilidad del botón activo */
+    .navbar-custom .nav-link.active {
+        color: #FFE4B5 !important; /* Dorado brillante */
+
+    }
+
+
+    /* Sección "ACERCA DE" */
+.acerca-section {
+        background-color: #5B3A29; /* Marrón cálido */
+        color: white;
+        padding: 50px;
+        border-radius: 15px;
+    }
+    
+    .acerca-title {
+        font-weight: bold;
+        margin-bottom: 20px;
+        color: #FFE4B5; /* Dorado para resaltar */
+    }
+    
+    .acerca-text {
+        font-size: 18px;
+        line-height: 1.6;
+        text-align: justify;
+        padding: 15px;
+    }
+    
+    
+    
